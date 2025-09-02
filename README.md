@@ -1,5 +1,5 @@
 
-[![MasterHead](https://wallpapercave.com/github-wallpapers)
+[ ! [MasterHead](https://medium.com/innova-tech/github-nedir-61c3180eab7d)
 <h1 align="center">Hi 👋, I'm Devran SERTEL</h1>
 <h3 align="center">A computer engineer student who is willing to learn and develop from Turkey</h3>
 
