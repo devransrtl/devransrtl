@@ -1,5 +1,5 @@
 
-[![MasterHead](https://wallpapersafari.com/desktop-wallpaper-programs/)
+[![MasterHead](https://github.com/deepraj02)
 <h1 align="center">Hi 👋, I'm Devran SERTEL</h1>
 <h3 align="center">A computer engineer student who is willing to learn and develop from Turkey</h3>
 
