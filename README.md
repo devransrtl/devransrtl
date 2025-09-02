@@ -1,5 +1,5 @@
 
-[![MasterHead](https://wallspic.com/image/155872-github-logo-azure-aqua-turquoise)
+[![MasterHead](https://wallpapercave.com/github-wallpapers)
 <h1 align="center">Hi 👋, I'm Devran SERTEL</h1>
 <h3 align="center">A computer engineer student who is willing to learn and develop from Turkey</h3>
 
