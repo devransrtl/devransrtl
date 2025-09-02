@@ -1,5 +1,5 @@
 
-[ ! [MasterHead](https://www.wallpaperflare.com/technology-git-github-wallpaper-ynwvu)
+[ ! [MasterHead](https://storage.googleapis.com/star-lab/blog/OGs/git.png)
 <h1 align="center">Hi 👋, I'm Devran SERTEL</h1>
 <h3 align="center">A computer engineer student who is willing to learn and develop from Turkey</h3>
 
