@@ -1,5 +1,5 @@
 
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/304/870/385/technology-git-github-hd-wallpaper-preview.jpg)
+[![MasterHead](https://user-images.githubusercontent.com/63138398/236623085-7a6e89ca-0add-4a5e-b91d-2ef5b36b15b1.png)
 <h1 align="center">Hi 👋, I'm Devran SERTEL</h1>
 <h3 align="center">A computer engineer student who is willing to learn and develop from Turkey</h3>
 
